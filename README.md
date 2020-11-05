@@ -1,1 +1,4 @@
-# vim_settings
+Creatte setting symbolic link below
+
+vimrc
+gitconfig

@@ -1,0 +1,8 @@
+[user]
+        email = vetwith@gmail.com
+        name = smilekomiya
+[ghq]
+        root = /Users/komiya/go/src
+[alias]
+    st = status
+    co = checkout
