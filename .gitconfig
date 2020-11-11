@@ -6,3 +6,6 @@
 [alias]
     st = status
     co = checkout
+    cp = cherry-pick 
+    cm = commit
+    ps = push -u origin HEAD
