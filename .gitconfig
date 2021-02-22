@@ -2,7 +2,7 @@
         email = vetwith@gmail.com
         name = smilekomiya
 [ghq]
-        root = /Users/komiya/go/src
+        root = /Users/y_komiya/go/src
 [alias]
     st = status
     co = checkout
